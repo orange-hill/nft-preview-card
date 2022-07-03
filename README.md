@@ -2,6 +2,12 @@
 
 
 
+## Screenshot 
+![](./img/screenshot_nft.png) 
+
+
+
+
 ### Challenge
 
 Your challenge is to build out this preview card component and get it looking as close to the design as possible.
@@ -20,4 +26,9 @@ Your users should be able to:
 - CSS
 - Flexbox
 
+
+### Author
+
+- [orange-hill](https://www.orange-hill.net)
+- This is a solution to the ["NFT Preview Card Component"](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U) challenge on Frontend Mentor
 
