@@ -5,6 +5,7 @@
 ### Screenshot 
 ![](./img/screenshot_nft.png) 
 
+[-> Live Site](https://orange-hill.github.io/nft-preview-card/)
 
 
 
