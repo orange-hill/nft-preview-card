@@ -1,6 +1,5 @@
 # NFT Preview Card
 
-[>> Preview <<](./img/screenshot_nft_preview_card.jpg)
 
 
 ### Challenge
