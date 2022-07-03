@@ -17,7 +17,7 @@ Your users should be able to:
 ### Screenshot 
 ![](./img/screenshot_nft.png) 
 
-[>> Live Site <<](https://orange-hill.github.io/nft-preview-card/)
+##### [Live Site](https://orange-hill.github.io/nft-preview-card/)
 
  
 ### Built with
