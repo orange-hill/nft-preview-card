@@ -2,7 +2,7 @@
 
 
 
-## Screenshot 
+### Screenshot 
 ![](./img/screenshot_nft.png) 
 
 
