@@ -43,7 +43,6 @@ a:hover {
 
 .card {
     width: 350px;
-    height: 595px;
     background-color: var(--card_bg);
     padding: 1.5rem;
     border-radius: 1rem;
@@ -144,3 +143,46 @@ a:hover {
     border-radius: 50%;
 }
 
+
+@media only screen and (max-width: 400px) {
+
+    .card {
+        width: 87%;
+    }
+
+    .card_time {
+        margin-left: auto;
+    }
+
+}
+
+@media only screen and (max-width: 330px) {
+
+    .card_creator p {
+        display: none;
+    }
+
+    .card {
+        text-align: center;
+    }
+
+    .card_info {
+        display: block;
+    }
+
+    .card_price {
+        margin-bottom: 0.5rem;
+    }
+
+    .card_price,
+    .card_time {
+        justify-content: center;
+    }
+
+    .card_creator {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
